@@ -19,5 +19,5 @@ This GitHub profile is where I:
 
 ---
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/sarath-chandra-t-53895115/))  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarath-chandra-t-53895115/)
 📬 Open to collaboration, feedback, or geeky data chats!li
