@@ -14,7 +14,7 @@ This GitHub profile is where I:
 - [LoanTap-Credit Eligibility-Logistic Regression](https://github.com/DataScienceWithSarath/LoanTap-Logistic-Regression): Determine if a credit line should be extended to an individual
 - [Jamboree Education-IVY League Admission-Linear-Regression](https://github.com/DataScienceWithSarath/Jamboree-Linear-Regressionhttps://github.com/DataScienceWithSarath/Jamboree-Linear-Regression): Predit student's probability of getting into IVY league colleges
 - [Walmart-Holiday Promotion Planning-Confidence Intervals](https://github.com/DataScienceWithSarath/Walmart-Confidence-Interval-CLT): Analyze customer purchase behavior to plan promotions for sale event
-- [Aerofit-Descriptive-Statistics & Probability](https://github.com/DataScienceWithSarath/Aerofit-Descriptive-Statistics-Probability): Create a customer profile for each AeroFit treadmill product
+- [Aerofit-Customer Profiling-Stat & Probability](https://github.com/DataScienceWithSarath/Aerofit-Descriptive-Statistics-Probability): Create a customer profile for each AeroFit treadmill product
 - [Delhivery Feature Engineering](https://github.com/DataScienceWithSarath/delhivery-feature-engineering-case-study): Analyzing delivery delays and route efficiency using real-world logistics data
 - [Yulu Demand Hypothesis Testing](https://github.com/DataScienceWithSarath/yulu-ebike-rentals-hypothesis-testing): Using statistical tests to identify factors that influence e-bike demand
 - [Scaler Learner Clustering](https://github.com/DataScienceWithSarath/scaler-learners-clustering): Segmenting Scaler learners based on job roles & salaries for career pattern insights
