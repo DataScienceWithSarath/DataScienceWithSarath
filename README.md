@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sarath
 
-With 18+ years of experience in product development, analytics, and engineering, I’m actively building skills in **Data Science and Machine Learning** while applying them to solve business problems.
+With 18+ years in product development, analytics, and engineering, I’m now focused on building skills in Data Science and Machine Learning to solve business problems.
 
 This GitHub profile is where I:
 - 📊 Explore real-world case studies
@@ -19,7 +19,7 @@ This GitHub profile is where I:
 - [Yulu Demand Hypothesis Testing](https://github.com/DataScienceWithSarath/yulu-ebike-rentals-hypothesis-testing): Using statistical tests to identify factors that influence e-bike demand
 - [Scaler Learner Clustering](https://github.com/DataScienceWithSarath/scaler-learners-clustering): Segmenting Scaler learners based on job roles & salaries for career pattern insights
 - [Target Brazil Orders – SQL Analysis](https://github.com/DataScienceWithSarath/target-ecomm-orders-sql): SQL-based case study uncovering sales, delivery, and payment trends across states and time
-- [Netflix Content Strategy Case Study](https://github.com/DataScienceWithSarath/netflix-content-analysis):Analyzed 8,700+ Netflix titles to uncover trends by type, genre, and region, and recommended strategies for content planning and audience targeting.
+- [Netflix Content Strategy Case Study](https://github.com/DataScienceWithSarath/netflix-content-analysis):Analyzed Netflix content for new content planning & audience targeting
 - More coming soon: • Recommender Systems • MLOps
 
 ### 🚀 My Focus Areas
