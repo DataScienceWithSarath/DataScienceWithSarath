@@ -9,7 +9,7 @@ This GitHub profile is where I:
 - 📚 Learn and share — one project at a time
 
 ### 💼 Current Projects
-- [AdEase-Ad Placement on Webpages-Time Series Forecasting](): Forecast traffic on web pages to optimize ad placement for clients
+- [AdEase-Ad Placement on Webpages-Time Series Forecasting](https://github.com/DataScienceWithSarath/AdEase-Time-Series-Forecasting): Forecast traffic on web pages to optimize ad placement for clients
 - [Ola-Drivers Churn-Ensemble Learning](https://github.com/DataScienceWithSarath/Ola-Ensemble-Machine-Learning): Predict whether a driver will be leaving the company or not based on their attributes
 - [LoanTap-Credit Eligibility-Logistic Regression](https://github.com/DataScienceWithSarath/LoanTap-Logistic-Regression): Determine if a credit line should be extended to an individual
 - [Jamboree Education-IVY League Admission-Linear-Regression](https://github.com/DataScienceWithSarath/Jamboree-Linear-Regressionhttps://github.com/DataScienceWithSarath/Jamboree-Linear-Regression): Predit student's probability of getting into IVY league colleges
