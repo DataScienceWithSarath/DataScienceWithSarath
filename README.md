@@ -9,6 +9,7 @@ This GitHub profile is where I:
 - 📚 Learn and share — one project at a time
 
 ### 💼 Current Projects
+- [Image Classification – PyTorch (CIFAR-10, ResNet-18, 93% acc.)](https://github.com/DataScienceWithSarath/ImageClassification-PyTorch): Built a custom CNN and fine-tuned ResNet-18 (AMP + cosine LR) achieving up to ~93% accuracy on CIFAR-10.
 - [AdEase-Ad Placement on Webpages-Time Series Forecasting](https://github.com/DataScienceWithSarath/AdEase-Time-Series-Forecasting): Forecast traffic on web pages to optimize ad placement for clients
 - [Ola-Drivers Churn-Ensemble Learning](https://github.com/DataScienceWithSarath/Ola-Ensemble-Machine-Learning): Predict whether a driver will be leaving the company or not based on their attributes
 - [LoanTap-Credit Eligibility-Logistic Regression](https://github.com/DataScienceWithSarath/LoanTap-Logistic-Regression): Determine if a credit line should be extended to an individual
